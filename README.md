@@ -2,7 +2,7 @@
 
 AgroBid is a modern MERN stack–based agricultural marketplace that directly connects farmers with consumers through a transparent real-time bidding system. The platform combines live auctions, smart farming insights, and an immersive user experience to create a next-generation digital agriculture ecosystem.
 
-##  Key Features
+##   Key Features
 
 - 🔴 Real-Time Bidding System  
   Live auction functionality powered by Socket.io for instant bid updates and seamless user interaction.
