@@ -22,7 +22,7 @@ AgroBid is a modern MERN stack–based agricultural marketplace that directly co
   - Seeds
   - Fresh Herbs
 
-- 👨‍🌾 Farmer-to-Consumer Connectivity  
+-  👨‍🌾 Farmer-to-Consumer Connectivity  
   Enables farmers to directly list products while consumers can place bids transparently without middlemen.
 
 - 🔒 Secure Data Handling  
