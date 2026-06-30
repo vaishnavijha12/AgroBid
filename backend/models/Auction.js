@@ -16,7 +16,7 @@ const auctionSchema = new mongoose.Schema({
         required: true,
     },
     currentPrice: {
-        type: Number,
+        type:  Number,
         required: true,
         default: function () {
             return this.startingPrice;
